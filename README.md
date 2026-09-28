@@ -1,5 +1,5 @@
 # About Me:
-I'm currently working on a gaze based tab switcher.<br>Looking to collaborate on Backend Wed Development, AI/ML projects<br>Currently learning about AI searches. Ask me about a CS concept (hopefully I heard about it).<br>
+I'm a senior Computer Science student. Trying to survive the world. I'm currently working on a gaze based tab switcher.<br>Looking to collaborate on Backend Wed Development, AI/ML projects<br>Currently learning about AI searches. Ask me about a CS concept (hopefully I heard about it).<br>
 
 
 ## Socials:
